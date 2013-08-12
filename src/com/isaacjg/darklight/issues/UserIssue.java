@@ -38,6 +38,7 @@ public class UserIssue extends Issue {
 
 	public void setUsername(String username) {
 		this.username = username;
+		setDescription(getDescription().replace("[username]", username));
 	}
 	
 	@Override
