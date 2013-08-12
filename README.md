@@ -7,6 +7,8 @@ Issue for [Darklight Nova Core](https://github.com/darklight-studios/darklight-n
 The Users issue checks if a user account has been disabled or removed
 
 ### Use
+**Note:** You must make a seperate UserIssue for each user you want to monitor
+
 
 1. Download the latest version from the [releases](https://github.com/darklight-studios/UserIssue/releases/) section
 2. Add DNCUserIssue.jar to your DNC build path
